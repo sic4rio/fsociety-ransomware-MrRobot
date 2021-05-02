@@ -36,10 +36,10 @@
 
 #### Advanced
 
-In futur i'll add multiple  step (Decrypt on file for free,  FAQ  ...).
+In future i'll add multiple  step (Decrypt on file for free,  FAQ  ...).
 
 #### DISCLAIMER
 This is Jester ransomware like, in Mr Robot movie (coded by Darlene S1E2,3),
 Please beware warning, after start you can't recover the files (In movie, the public key is not shared).
 Please don't use this malware on personal computer.
-This project is just a wink of mr robot serie.
+This project is just a wink of mr robot series.
